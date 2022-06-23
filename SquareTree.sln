@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareTree", "SquareTree\SquareTree.csproj", "{85479F40-9D9C-4607-99E8-5FD5618F058B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecomposeTests", "DecomposeTests\DecomposeTests.csproj", "{ABE00D38-F504-487D-A361-C5C25AE79AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85479F40-9D9C-4607-99E8-5FD5618F058B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85479F40-9D9C-4607-99E8-5FD5618F058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85479F40-9D9C-4607-99E8-5FD5618F058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85479F40-9D9C-4607-99E8-5FD5618F058B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE00D38-F504-487D-A361-C5C25AE79AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE00D38-F504-487D-A361-C5C25AE79AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE00D38-F504-487D-A361-C5C25AE79AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE00D38-F504-487D-A361-C5C25AE79AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9D7D6A-067B-46D4-BECD-54285ED9304D}
+	EndGlobalSection
+EndGlobal

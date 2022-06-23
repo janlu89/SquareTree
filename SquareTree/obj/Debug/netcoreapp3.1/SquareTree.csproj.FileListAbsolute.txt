@@ -1,0 +1,14 @@
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.csproj.AssemblyReference.cache
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.AssemblyInfoInputs.cache
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.AssemblyInfo.cs
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.csproj.CoreCompileInputs.cache
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.exe
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.deps.json
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.runtimeconfig.json
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.runtimeconfig.dev.json
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.dll
+C:\Users\janlu\source\repos\SquareTree\SquareTree\bin\Debug\netcoreapp3.1\SquareTree.pdb
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.dll
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.pdb
+C:\Users\janlu\source\repos\SquareTree\SquareTree\obj\Debug\netcoreapp3.1\SquareTree.genruntimeconfig.cache
